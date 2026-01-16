@@ -68,12 +68,10 @@ info.append("hello")
 print(info)
 
 # .insert(idx,ele)
-
 info.insert(2,'world')
 print(info)
 
 # [1,2,3,4,5]
-
 # lst = [1,2,3,4,5]
 # for i in range(2):
 #     last = lst.pop()
